@@ -6,7 +6,7 @@ spring:
     banner-mode: log
 lavalink:
   server:
-    password: youshallnotpass
+    password: 2bcoom
     sources:
       youtube: true
       bandcamp: true
@@ -24,7 +24,7 @@ lavalink:
 
 metrics:
   prometheus:
-    enabled: false
+    enabled: true
     endpoint: /metrics
 
 sentry:
